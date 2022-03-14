@@ -23,9 +23,6 @@ return [
     |
     | This is the username of your LetterXpress account.
     |
-    | Production: https://api.letterxpress.de/v1/
-    | Sandbox:    https://sandbox.letterxpress.de/v1/
-    |
     */
 
     'api_user' => env('LETTER_XPRESS_API_USER'),
@@ -36,8 +33,6 @@ return [
     |--------------------------------------------------------------------------
     |
     | This is your personal API key.
-    |
-    | Refer to: https://www.letterxpress.de/account/api
     |
     */
 
